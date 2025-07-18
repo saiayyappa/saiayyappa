@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my portfolio site and personal blog: https://saiayyappa-in.vercel.app/<br>🌱 I’m currently learning t3 app for building by own web app for personal expense tracking<br>💬 Ask me about: Anime, games and genshin
+🔭 I’m currently working on my portfolio site and personal blog: https://saiayyappa.in/<br>🌱 I’m currently learning t3 app for building by own web app for personal expense tracking<br>💬 Ask me about: Anime, games and genshin
 
 
 ## 🌐 Socials:
